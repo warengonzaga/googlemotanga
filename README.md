@@ -1,41 +1,40 @@
-# Google Mo Tanga (Google It Idiot)
+# Google Mo Tanga (Google It)
 
-[![by Waren Gonzaga](https://img.shields.io/badge/by-Waren%20Gonzaga-blue.svg?longCache=true&style=flat-square)](https://bmc.xyz/warengonzaga) [![Release](https://img.shields.io/github/release/warengonzaga/googlemotanga.svg?style=flat-square)](https://github.com/warengonzaga/googlemotanga/releases) [![Star](https://img.shields.io/github/stars/warengonzaga/googlemotanga.svg?style=flat-square)](https://github.com/warengonzaga/googlemotanga/stargazers) [![License](https://img.shields.io/github/license/warengonzaga/googlemotanga.svg?style=flat-square)](https://github.com/warengonzaga/googlemotanga/blob/main/LICENSE)
+[![by](https://img.shields.io/badge/by-Waren%20Gonzaga-blue.svg?labelColor=181717&style=flat-square)](https://github.com/warengonzaga) [![sponsors](https://img.shields.io/badge/sponsor-%E2%9D%A4-%23db61a2.svg?&logo=github&logoColor=white&labelColor=181717&style=flat-square)](https://github.com/sponsors/warengonzaga) [![star](https://img.shields.io/github/stars/warengonzaga/googlemotanga.svg?&logo=github&labelColor=181717&color=yellow&style=flat-square)](https://github.com/warengonzaga/googlemotanga/stargazers) [![license](https://img.shields.io/github/license/warengonzaga/googlemotanga.svg?&logo=github&labelColor=181717&style=flat-square)](https://github.com/warengonzaga/googlemotanga/blob/main/license)
 
 Learn Google things in no time! Wag tanga, I-google mo!
 
-## Contributing
+## 🎯 Contributing
 
-Contributions are welcome, create a pull request to this repo and I will review your code. Please consider to submit your pull request to the ```dev``` branch. Thank you!
+Contributions are welcome, create a pull request to this repo and I will review your code. Please consider to submit your pull request to the `dev` branch. Thank you!
 
-## Issues
+Read the project's [contributing guide](./contributing.md) for more info.
 
-If you're facing a problem in using Google Mo Tanga please let me know by creating an issue in this github repository. I'm happy to help you! Don't forget to provide me some screenshot or error codes of it, thank you!
+## 🐛 Issues
 
-## Supporters
+Please report any issues and bugs by [creating a new issue here](https://github.com/warengonzaga/googlemotanga/issues/new/choose), also make sure you're reporting an issue that doesn't exist. Any help to improve the project would be appreciated. Thanks! 🙏✨
 
-[![Vercel](https://wrngnz.ga/badge-vercel)](https://vercel.com) [![GitBook](https://wrngnz.ga/badge-gitbook)](https://gitbook.io)
+## 🍀 Sponsors and Supporters
 
-> Love what I do? **[Send me some coffees](https://buymeacoff.ee/warengonzaga)**!
-> Can't send coffees? Why not nominate me as a **[GitHub Star](https://stars.github.com/nominate/)**!?
-> Your coffee and vote will help me to continue working on open-source projects like this.
+> Love what I do? Send me some [love](https://github.com/sponsors/warengonzaga) or [coffee](https://buymeacoff.ee/warengonzaga)!? 💖☕
+>
+> Can't send love or coffees? 😥 Nominate me for a **[GitHub Star](https://stars.github.com/nominate)** instead!
+> Your support will help me to continue working on open-source projects like this. 🙏😇
 
-## Community
+## 📋 Code of Conduct
 
-Wanna see other projects I made? Join today!
+Read the project's [code of conduct](./code_of_conduct.md).
 
-[![Community](https://discordapp.com/api/guilds/659684980137656340/widget.png?style=banner3)](https://wrngnz.ga/discord)
+## 📃 License
 
-## License
+This project is licensed under [GNU General Public License v3](https://opensource.org/licenses/GPL-3.0).
 
-Google Mo Tanga is licensed under [GNU General Public License v3](https://opensource.org/licenses/GPL-3.0).
+## 📝 Author
 
-## Author
+This project is is created by **[Waren Gonzaga](https://github.com/warengonzaga)**, with the help of awesome [contributors](https://github.com/warengonzaga/googlemotanga/graphs/contributors).
 
-Google Mo Tanga is Developed and Maintained by **[Waren Gonzaga](https://github.com/warengonzaga)** with the help of awesome **[contributors](https://github.com/warengonzaga/googlemotanga/graphs/contributors)**.
-
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white)](https://facebook.com/warengonzagaofficial) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/warengonzaga) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/warengonzagaofficial) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?&style=flat-square&logo=youtube&logoColor=white)](https://youtube.com/warengonzaga) [![DEV](https://img.shields.io/badge/DEV-%23000000.svg?&style=flat-square&logo=dev.to&logoColor=white)](https://dev.to/warengonzaga) [![BMC](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-%23FFDD00.svg?&style=flat-square&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoff.ee/warengonzaga)
+[![contributors](https://contrib.rocks/image?repo=warengonzaga/googlemotanga)](https://github.com/warengonzaga/googlemotanga/graphs/contributors)
 
 ---
 
-💻 Made with 💖 and ☕ by Waren Gonzaga with **YHWH** 🙏
+💻💖☕ by [Waren Gonzaga](https://warengonzaga.com) | [YHWH](https://youtu.be/HHrxS4diLew?t=44) 🙏
